@@ -1,0 +1,18 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0.5px;
+}
+
+a:hover {
+  color: #1e3a8a;
+  text-decoration: underline;
+  transition: all 0.3s ease;
+}
+
+footer {
+  background-color: #e0f2fe;
+  color: #0369a1;
+}
